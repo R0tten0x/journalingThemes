@@ -3,7 +3,7 @@
     {
       "category": "Gratitude and Appreciation",
       "id": 1,
-      "affirmations": [
+      "affirmation": [
         "I am grateful for my life's abundance",
         "I appreciate the love surrounding me",
         "Thankfulness flows through me daily",
@@ -59,7 +59,7 @@
     {
       "category": "Overcoming Fear and Anxiety",
       "id": 2,
-      "affirmations": [
+      "affirmation": [
         "I release fear and embrace courage",
         "Anxiety has no power over me",
         "I breathe through challenging moments",
@@ -115,7 +115,7 @@
     {
       "category": "Love and Relationships",
       "id": 3,
-      "affirmations": [
+      "affirmation": [
         "I attract healthy, loving relationships",
         "My heart remains open to give and receive",
         "I communicate with compassion and clarity",
@@ -171,7 +171,7 @@
     {
       "category": "Peace and Mindfulness",
       "id": 4,
-      "affirmations": [
+      "affirmation": [
         "I am fully present in this moment",
         "Peace flows through my entire being",
         "Mindfulness grounds me in the now",
@@ -227,7 +227,7 @@
     {
       "category": "Manifesting Dreams and Goals",
       "id": 5,
-      "affirmations": [
+      "affirmation": [
         "I attract opportunities aligned with my purpose",
         "My vision creates my reality daily",
         "I take inspired action toward my dreams",
@@ -283,7 +283,7 @@
     {
       "category": "Confidence and Self-Belief",
       "id": 6,
-      "affirmations": [
+      "affirmation": [
         "I trust my abilities completely",
         "Confidence flows through me naturally",
         "I am worthy of success and recognition",
@@ -339,7 +339,7 @@
     {
       "category": "Health and Wellbeing",
       "id": 7,
-      "affirmations": [
+      "affirmation": [
         "My body heals with incredible ease",
         "Vitality flows through every cell",
         "I nourish myself with wholesome choices",
@@ -395,7 +395,7 @@
     {
       "category": "Joy and Happiness",
       "id": 8,
-      "affirmations": [
+      "affirmation": [
         "Joy flows through me effortlessly",
         "Happiness is my natural state",
         "I find delight in simple moments",
@@ -451,7 +451,7 @@
     {
       "category": "Growth and Transformation",
       "id": 9,
-      "affirmations": [
+      "affirmation": [
         "I embrace change with open arms",
         "Growth is my natural state",
         "I evolve beautifully every day",
@@ -507,7 +507,7 @@
     {
       "category": "Money and Abundance",
       "id": 10,
-      "affirmations": [
+      "affirmation": [
         "Wealth flows to me effortlessly",
         "I attract financial abundance daily",
         "My income constantly increases",
