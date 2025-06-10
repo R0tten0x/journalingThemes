@@ -1,4 +1,6 @@
-[
+
+  {
+  "categories": [
   {
     "id": 1,
     "category": "Self-Reflection & Awareness",
@@ -1048,4 +1050,5 @@
       "What body wisdom?"
     ]
   }
-]
+  ]
+  }
