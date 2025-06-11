@@ -1,0 +1,53 @@
+{
+  "effectiveDate": "2025-06-11",
+  "title": "Privacy Policy",
+  "sections": [
+    {
+      "heading": "Data Collection and Storage",
+      "content": [
+        "All journal entries and brain dump entries you create are stored securely on your device using Apple’s SwiftData framework. Your data is not uploaded to any external server.",
+        "If you attach photos to an entry, those images are stored locally on your device.",
+        "App preferences (such as theme choices, selected affirmation categories, or button colors) are stored locally using Apple’s AppStorage (UserDefaults)."
+      ]
+    },
+    {
+      "heading": "Data Sharing",
+      "content": [
+        "The app retrieves affirmation data and button color themes from publicly available sources on GitHub. No personal or journal data is sent during these requests.",
+        "The app does not share, sell, or transmit your personal data to any third parties."
+      ]
+    },
+    {
+      "heading": "Analytics & Tracking",
+      "content": [
+        "The app does not use analytics services, advertising networks, or tracking technologies."
+      ]
+    },
+    {
+      "heading": "Permissions",
+      "content": [
+        "The app does not request access to contacts, location, microphone, or other sensitive device features.",
+        "If the app requires access to your photos for attaching them to journal entries, that access is strictly for saving and displaying your own images within the app."
+      ]
+    },
+    {
+      "heading": "Your Control",
+      "content": [
+        "All your data (entries, photos, preferences) remains on your device. If you delete the app, your data will be erased from your device.",
+        "You can delete journal entries and photos at any time."
+      ]
+    },
+    {
+      "heading": "Changes to This Policy",
+      "content": [
+        "If this policy is updated, you will be notified through the app or via an app update."
+      ]
+    },
+    {
+      "heading": "Contact",
+      "content": [
+        "If you have questions regarding privacy or your data, please contact: [your contact email here]."
+      ]
+    }
+  ]
+}
