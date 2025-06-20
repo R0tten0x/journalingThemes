@@ -3,50 +3,74 @@
   "title": "Privacy Policy",
   "sections": [
     {
-      "heading": "Data Collection and Storage",
+      "heading": "Information We Collect",
       "content": [
-        "All journal entries and brain dump entries you create are stored securely on your device using Apple’s SwiftData framework. Your data is not uploaded to any external server.",
-        "If you attach photos to an entry, those images are stored locally on your device.",
-        "App preferences (such as theme choices, selected affirmation categories, or button colors) are stored locally using Apple’s AppStorage (UserDefaults)."
+        "We do not collect or store any personally identifiable information such as name, email, location, or contact details.",
+        "The app does not use analytics, advertising, or tracking services. No usage data is transmitted to third parties or analyzed for marketing purposes.",
+        "Preferences and information are stored solely on your device, including: selected button color theme and fetch time, selected affirmation category and fetch time, last audio recording filename (if used), the app’s first launch date, and any remote content fetched for offline use.",
+        "If you use audio recording features, audio files are stored only on your device and never uploaded or shared.",
+        "With your permission, the app may send you push notifications. Notification permissions are managed in your device settings."
       ]
     },
     {
-      "heading": "Data Sharing",
+      "heading": "How Information Is Collected",
       "content": [
-        "The app retrieves affirmation data and button color themes from publicly available sources on GitHub. No personal or journal data is sent during these requests.",
-        "The app does not share, sell, or transmit your personal data to any third parties."
+        "Theme and affirmation data are downloaded from public JSON files hosted on GitHub. No personal data is transmitted during these fetches.",
+        "App preferences are stored locally using @AppStorage and UserDefaults.",
+        "Audio files recorded within the app are saved locally in your device’s application support directory.",
+        "Microphone and notification permissions are optional and can be enabled or disabled at any time."
       ]
     },
     {
-      "heading": "Analytics & Tracking",
+      "heading": "How We Use Your Information",
       "content": [
-        "The app does not use analytics services, advertising networks, or tracking technologies."
+        "To remember your preferences for a personalized experience.",
+        "To provide features like color themes, affirmations, journaling streaks, audio recording/playback, and reminders.",
+        "To ensure smooth functionality and offline access to previously fetched data."
       ]
     },
     {
-      "heading": "Permissions",
+      "heading": "Data Sharing and Disclosure",
       "content": [
-        "The app does not request access to contacts, location, microphone, or other sensitive device features.",
-        "If the app requires access to your photos for attaching them to journal entries, that access is strictly for saving and displaying your own images within the app."
+        "We do not share, sell, or disclose your data to any third parties.",
+        "All data remains on your device and is not accessible to us or anyone else.",
+        "Audio recordings, preferences, and fetched content stay entirely local."
       ]
     },
     {
-      "heading": "Your Control",
+      "heading": "Data Security",
       "content": [
-        "All your data (entries, photos, preferences) remains on your device. If you delete the app, your data will be erased from your device.",
-        "You can delete journal entries and photos at any time."
+        "All local data is securely stored on your device.",
+        "Audio recordings are protected using the device’s built-in file protection.",
+        "No sensitive personal data is ever collected or processed."
+      ]
+    },
+    {
+      "heading": "Children’s Privacy",
+      "content": [
+        "We do not knowingly collect personal information from children under 13.",
+        "If you believe a child has submitted personal data, please contact us so we can remove it."
+      ]
+    },
+    {
+      "heading": "Your Choices",
+      "content": [
+        "You can review and change your app settings at any time.",
+        "You may enable or disable microphone and notification access in device settings.",
+        "Uninstalling the app deletes all locally stored data."
       ]
     },
     {
       "heading": "Changes to This Policy",
       "content": [
-        "If this policy is updated, you will be notified through the app or via an app update."
+        "We may update this Privacy Policy from time to time. All changes will be reflected in the app along with an updated effective date."
       ]
     },
     {
-      "heading": "Contact",
+      "heading": "Contact Us",
       "content": [
-        "If you have questions regarding privacy or your data, please contact: [your contact email here]."
+        "If you have questions or concerns about your privacy, contact us at:",
+        "Email: rott3n0x@gmail.com"
       ]
     }
   ]
